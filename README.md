@@ -60,6 +60,10 @@ This is from GitHub
 * General Intro to RR (75 min) 
 [printable pdf (3.4M)](2016_SISBID_3_07_broad_intro_to_rr_printable.pdf)
 
+* [Getting crushed on the Internet](http://simplystatistics.org/2015/11/16/so-you-are-getting-crushed-on-the-internet-the-new-normal-for-academics/)
+
+* [Making your work reproducible](http://simplystatistics.org/2015/12/11/instead-of-research-on-reproducibility-just-do-reproducible-research/)
+
 ### Session 2, 10:30-12
 
 * The Duke Saga (45 min) 
@@ -117,6 +121,9 @@ This session will be a mixture of lecture and live demo.
 
 * Prevention vs Cure (45 min)
 [printable pdf (1.7M)](2016_SISBID_3_15_prevention_printable.pdf)
+
+* [ROC Curves of Science](http://simplystatistics.org/2013/08/01/the-roc-curves-of-science/)
+
 * More Day 2 Homework (responding to changes suggested)
 
 ### Session 8, 3:30-5
@@ -162,3 +169,4 @@ This session will be a mixture of lecture and live demo.
 * [Petricoin et al, Lancet (2002)](http://www.sciencedirect.com/science/article/pii/S0140673602077462)
 * [Baggerly et al, Bioinformatics (2004)](http://bioinformatics.oxfordjournals.org/content/20/5/777.long)
 * [Leek et el, Nat Rev Genet (2010)](http://www.nature.com/nrg/journal/v11/n10/full/nrg2825.html)
+
